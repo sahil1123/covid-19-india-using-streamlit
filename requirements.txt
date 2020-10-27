@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pydeck
+plotly.express
+datetime
+matplotlib.pyplot
+time
